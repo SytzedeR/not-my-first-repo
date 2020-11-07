@@ -1,0 +1,17 @@
+commit 08a549ace985a9ee50c10788467a8a9b6edc4fd1
+Author: SytzedeR <sytzederoock@hotmail.com>
+Date:   Sat Nov 7 15:56:52 2020 +0100
+
+    derde versie
+
+commit d082a124124cbe88ab92e11a87664be56998ce6b
+Author: SytzedeR <sytzederoock@hotmail.com>
+Date:   Fri Nov 6 16:04:29 2020 +0100
+
+    tweede versie
+
+commit 8890952a91305d7c757fbe7dc6fb34954b102ea1
+Author: SytzedeR <sytzederoock@hotmail.com>
+Date:   Fri Nov 6 16:00:05 2020 +0100
+
+    eerste versie
